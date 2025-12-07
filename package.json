@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@angular/common": "^21.0.2",
-    "@angular/core": "^21.0.2",
-    "@ionic/angular": "^8.7.11"
-  }
-}

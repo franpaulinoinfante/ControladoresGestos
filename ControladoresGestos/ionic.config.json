@@ -1,7 +1,0 @@
-{
-  "name": "ControladoresGestos",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
