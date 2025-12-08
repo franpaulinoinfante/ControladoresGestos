@@ -1,0 +1,7 @@
+{
+  "name": "gesture-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
